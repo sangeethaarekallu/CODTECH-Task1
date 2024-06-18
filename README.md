@@ -1,9 +1,9 @@
 # CODTECH-Task1
 Name:SANGEETHA AREKALLU  
-Company:CODTECH IT SOLUTIONS
-Id:CT12DS265
-Domain:Python programming
-Duration:10th June to 10th August 2004
+Company:CODTECH IT SOLUTIONS 
+Id:CT12DS265 
+Domain:Python programming 
+Duration:10th June to 10th August 2004 
 Mentor:Muzammil
 Overview of the project
 Project:SIMPLE CALCULATOR
