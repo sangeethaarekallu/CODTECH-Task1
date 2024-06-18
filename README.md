@@ -12,8 +12,8 @@ Python programming
 #Mentor:
 Muzammil  
 #Overview of the project  
-#Project:
-SIMPLE CALCULATOR 
+#Project:SIMPLE CALCULATOR 
+
 ![image](https://github.com/sangeethaarekallu/CODTECH-Task1/assets/172568858/82ec6203-f5c6-4b6b-84ed-d506f6d0058c)
 
 
