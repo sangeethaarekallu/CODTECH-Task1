@@ -8,7 +8,7 @@ CT12DS265
 Domain:
 Python programming  
 Duration:
-10th June to 10th August 2004   
+10th June to 10th August 2024 
 Mentor:
 Muzammil  
 #Overview of the project  
